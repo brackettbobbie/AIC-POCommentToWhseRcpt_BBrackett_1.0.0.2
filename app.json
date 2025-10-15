@@ -1,0 +1,25 @@
+{
+  "id": "9e60628e-d273-454b-90ec-7c75c2951468",
+  "name": "AIC-POCommentToWhseRcpt",
+  "publisher": "BBrackett",
+  "version": "1.0.0.2",
+  "runtime": "13.0",
+  "target": "Cloud",
+  "application": "24.0.0.0",
+  "platform": "24.0.0.0",
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true,
+    "applyToDevExtension": false
+  },
+  "features": [
+    "NoImplicitWith"
+  ],
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ]
+}
